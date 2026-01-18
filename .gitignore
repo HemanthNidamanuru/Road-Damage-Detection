@@ -1,0 +1,22 @@
+# Virtual environment
+rdd_env/
+
+# Raw dataset
+RDD2022/
+
+# YOLO training outputs
+runs/
+
+# YOLO formatted dataset (optional if large)
+dataset/images/
+dataset/labels/
+
+# Model weights
+*.pt
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc

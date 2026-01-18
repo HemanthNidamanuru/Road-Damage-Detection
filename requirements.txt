@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+
+# Computer Vision
+opencv-python
+
+# Deep Learning
+torch
+torchvision
+
+# YOLO / Object Detection
+ultralytics
+
+# Jupyter Environment
+jupyter
+ipykernel
+
+# Utilities
+tqdm
+pyyaml

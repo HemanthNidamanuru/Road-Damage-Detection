@@ -1,0 +1,6 @@
+
+train: D:\MachineLearingProject\YOLODataset/images/train
+val: D:\MachineLearingProject\YOLODataset/images/val
+
+nc: 5
+names: ['D00', 'D10', 'D20', 'D40', 'D44']
